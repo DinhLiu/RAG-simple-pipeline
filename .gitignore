@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+processed_data/
+raw_data/
+qdrant_storage/
+*.json
+*.txt
+*.csv
+
+*.log
